@@ -1,3 +1,5 @@
+# Install-Package -Name SSH.Net -Source nuget.org
+
 # Charger le module SSH.Net
 Import-Module SSH.Net
 
